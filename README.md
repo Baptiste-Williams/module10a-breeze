@@ -39,10 +39,16 @@ This repo is my customized Laravel Breeze authentication project for Assignment 
 ## Screenshots Included
 
 - Login and Register forms with styling
+- <img width="1918" height="1017" alt="The login form" src="https://github.com/user-attachments/assets/352910ee-a29b-4388-abc9-b6b3382732ef" />
+<img width="1918" height="1078" alt="The registration form" src="https://github.com/user-attachments/assets/1563c2e2-f467-420b-9d24-b12ef12529a4" />
 - Post-login dashboard view
-- Countdown + alarm visual effects
-- VSCode showing routes/auth.php and Blade templates
+<img width="1897" height="1016" alt="Post-login dashboard screen shot 1" src="https://github.com/user-attachments/assets/cb275a63-aaa5-4796-8c23-331c81ba6c6b" />
+<img width="1917" height="1077" alt="Post - log in dashboard screen shot 2" src="https://github.com/user-attachments/assets/f241ed05-e6a0-4922-8993-6c8a7b2bbad3" />
 
+- VSCode showing routes/auth.php and Blade templates
+  <img width="1908" height="1078" alt="routes auth screen shot php" src="https://github.com/user-attachments/assets/7a8892a4-6a59-4bee-a98a-afc46ad3ec9c" />
+  <img width="1917" height="1000" alt="screen shot of auth views" src="https://github.com/user-attachments/assets/9163f911-4ec1-4db0-b90d-fdf26b8c4658" />
+  
 ---
 
 ## How to Run Locally
